@@ -11,7 +11,7 @@ import java.util.Timer;
 public class RunTimerForComputerWork {
 
     public static final int DELAY_FOR_WORK_BREAK = 60*60*1000;
-    public static final int TEST_DELAY = 3000;
+    public static final int TEST_DELAY = 1000;
 
     public static void main(String[] args) {
 
