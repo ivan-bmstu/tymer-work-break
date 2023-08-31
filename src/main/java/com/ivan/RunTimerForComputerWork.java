@@ -13,7 +13,7 @@ public class RunTimerForComputerWork {
     public static final int DELAY_FOR_WORK_BREAK = 60*60*1000;
     public static final int TEST_DELAY = 3000;
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
 
@@ -43,7 +43,7 @@ public class RunTimerForComputerWork {
         JLabel label = new JLabel(labelText);
         frame.getContentPane().add(label);
 
-        frame.setPreferredSize(new Dimension(300, 100));
+        frame.setPreferredSize(new Dimension(250, 100));
 
         frame.pack();
         frame.setVisible(true);
