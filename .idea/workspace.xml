@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f00841c-ca0a-46fe-85f5-38e544d310f7" name="Changes" comment="first worked version" />
+    <list default="true" id="9f00841c-ca0a-46fe-85f5-38e544d310f7" name="Changes" comment="'change window width size 300 -&gt; 250'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ivan/RunTimerForComputerWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ivan/RunTimerForComputerWork.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +34,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/javaTimer/MyTimer&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/java comeback is real/gitStudy/java custom timer/tymer-work-break",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,6 +63,8 @@
       <workItem from="1692796000394" duration="159000" />
       <workItem from="1692796350120" duration="595000" />
       <workItem from="1692883450171" duration="702000" />
+      <workItem from="1693483504551" duration="1805000" />
+      <workItem from="1693486559902" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="first worked version">
       <created>1692883534171</created>
@@ -87,7 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first worked version" />
-    <option name="LAST_COMMIT_MESSAGE" value="first worked version" />
+    <MESSAGE value="'change window width size 300 -&gt; 250'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'change window width size 300 -&gt; 250'" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
