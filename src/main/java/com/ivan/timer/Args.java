@@ -1,4 +1,4 @@
-package com.ivan;
+package com.ivan.timer;
 
 import com.beust.jcommander.Parameter;
 

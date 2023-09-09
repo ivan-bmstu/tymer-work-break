@@ -1,21 +1,16 @@
-package com.ivan;
+package com.ivan.timer;
 
 import com.beust.jcommander.JCommander;
 
 import javax.swing.*;
 import java.awt.*;
-import java.io.IOException;
-import java.util.Scanner;
 import java.util.Timer;
 
 public class RunTimerForComputerWork {
 
     public static final int DELAY_FOR_WORK_BREAK = 60*60*1000;
-    public static final int TEST_DELAY = 1000;
 
     public static void main(String[] args) {
-
-        Scanner scanner = new Scanner(System.in);
 
         Args argsFromMain = new Args();
         JCommander jCommander = JCommander.newBuilder()
